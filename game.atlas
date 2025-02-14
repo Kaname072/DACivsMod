@@ -6,14 +6,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Shrine Delta
   rotate: false
-  xy: 75, 4
+  xy: 500, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+BuildingIcons/Palace Delta
   rotate: false
-  xy: 220, 4
+  xy: 100, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -25,9 +25,9 @@ NationIcons/Deltas Kingdom
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Delta Warrior
   rotate: false
-  xy: 328, 4
+  xy: -300, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
