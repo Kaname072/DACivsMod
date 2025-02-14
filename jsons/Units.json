@@ -8,10 +8,11 @@
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["medic","Ignore terrain cost"],
+		"promotions": ["Medic","Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	}
 	{ 	"name": "Delta Warrior",
+		"uniqueTo": "Deltas Kingdom",		
 		"replaces": "Warrior",
 		"unitType": "Sword",
 		"movement": 3,
