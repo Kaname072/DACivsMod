@@ -3,9 +3,9 @@
 			"name": "Shrine Delta",
 		"replaces": "Shrine",
                 "faith": 3,
-                "happiness": 2,
+                "uniqueTo": "Deltas Kingdom",
 		"cost": 40,
-		"maintenance": 1,
+		"maintenance": 2,
 		"requiredTech": "Pottery",
 		"uniques": ["Only available <when religion is enabled>"]
 	},
