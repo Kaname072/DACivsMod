@@ -27,9 +27,10 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [255,0,0],
-		"innerColor": [255,255,255],
-		"unique": "MANIFEST_DESTINY",
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,0],
+		"uniqueName": "Convert to Deltism"
+		"uniques": ["When conquering an encampment, earn [10] Gold and recruit a Barbarian unit <with [90]% chance>"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
