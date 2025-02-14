@@ -4,9 +4,9 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/Shrine Delta
   rotate: false
-  xy: 112, 4
+  xy: 50, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
