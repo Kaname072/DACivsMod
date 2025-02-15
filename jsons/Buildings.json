@@ -26,16 +26,16 @@
 		"uniqueTo": "Deltas Kingdom",
 		"replace": "Monument",
 		"culture": 7,
-		"cost": 60,
-		"hurryCostModifier": 70,
+		"cost": 40,
+		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": ["Destroyed when the city is captured"]
 	}
 	{       "name": "Butterfly Garden",
 		"uniqueTo": "Deltas Kingdom",
 		"replaces": "Garden",
-		"uniques": ["[+75]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
+		"uniques": ["[+50]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
-		"maintenance": 3,
+		"maintenance": 2,
 		"requiredTech": "Theology"
 ]
