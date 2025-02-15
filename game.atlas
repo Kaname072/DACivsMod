@@ -13,7 +13,7 @@ BuildingIcons/Shrine Delta
   index: -1
 BuildingIcons/Palace Delta
   rotate: false
-  xy: 300, 4
+  xy: 400, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -27,14 +27,42 @@ NationIcons/Deltas Kingdom
   index: -1
 UnitIcons/Delta Warrior
   rotate: false
-  xy: 800, 4
+  xy: 700, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Scout Delta
   rotate: false
-  xy: 700, 4
+  xy: 600, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Butterfly Garden
+  rotate: false
+  xy: 500, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Statue of Hope
+  rotate: false
+  xy: 200, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Delta Spearman
+  rotate: false
+  xy: 800, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Amazon Warrior
+  rotate: false
+  xy: 900, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
