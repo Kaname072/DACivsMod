@@ -3,7 +3,7 @@
 		"name": "Deltas Kingdom",
 		"leaderName": "Nikolas Alencar",
 		"adjective": ["Deltas"],
-		"startBias": ["Forest"],
+		"startBias": ["Plains","Forest"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hello i am Nikolas Alencar the King of Deltas",
@@ -30,10 +30,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"uniqueName": "The Alpha"
-		"uniques": ["When conquering an encampment, earn [20] Gold and recruit a Barbarian unit <with [25]% chance>","[+10 Happiness] [in all cities]","Double quantity of [Iron] produced"],
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniques": ["When conquering an encampment, earn [20] Gold and recruit a Barbarian unit <with [25]% chance>","[+4 Happiness] [in all cities]","Double quantity of [Iron] produced"],
+		"cities":["Eden","Lorena","Caxalote do Norte","Zodíaco Vermelho","Gamuza","Caxalote do Sul","Carmesin","Camarões","Penélope"]
 	}
 ]
