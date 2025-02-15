@@ -3,7 +3,7 @@
 		"name": "Deltas Kingdom",
 		"leaderName": "Nikolas Alencar",
 		"adjective": ["Deltas"],
-		"startBias": ["Plains","Forest"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hello i am Nikolas Alencar the King of Deltas",
@@ -31,6 +31,6 @@
 		"innerColor": [255,0,0],
 		"uniqueName": "The Alpha"
 		"uniques": ["When conquering an encampment, earn [20] Gold and recruit a Barbarian unit <with [25]% chance>","[+4 Happiness] [in all cities]","Double quantity of [Iron] produced"],
-		"cities":["Eden","Lorena","Caxalote do Norte","Zodíaco Vermelho","Gamuza","Caxalote do Sul","Carmesin","Camarões","Penélope"]
+		"cities":["Eden","Lorena","Caxalote I","Zodíaco","Gamuza","Caxalote II","Carmesin","Camarões","Penélope"]
 	}
 ]
