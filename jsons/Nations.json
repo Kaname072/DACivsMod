@@ -9,10 +9,10 @@
 		"startIntroPart1": "Hello i am Nikolas Alencar the King of Deltas",
 		"startIntroPart2": "I turned a King",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Dont try to fight",
+		"attacked": "wow...",
+		"defeated": "Imposible...",
+		"introduction": "Good day",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,13 +24,13 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "ok...",
+		"tradeRequest": "Well... you accept?",
 
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"uniqueName": "The Alpha"
 		"uniques": ["When conquering an encampment, earn [20] Gold and recruit a Barbarian unit <with [25]% chance>","[+4 Happiness] [in all cities]","Double quantity of [Iron] produced"],
-		"cities":["Eden","Lorena","Caxalote I","Zodíaco","Gamuza","Caxalote II","Carmesin","Camarões","Penélope"]
+		"cities": ["Eden","Lorena","Caxalote I","Zodíaco","Gamuza","Caxalote II","Carmesin","Camarões","Penélope","Flaminguia","Lazuli","Miranda"]
 	}
 ]
